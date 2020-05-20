@@ -67,4 +67,4 @@ cap.release()
 cv2.destroyAllWindows()      
 print("Collecting Samples Complete")
 ```
-Dataset:![dataset](/screenshots/Screenshot1.png)
+Dataset:![dataset](/Screenshot1.png)
